@@ -1,0 +1,68 @@
+[
+  {
+    "id": "path-live-launch",
+    "title": "直播电商冷启动",
+    "summary": "从平台选择到内容人设，再到首场爆发的步骤。",
+    "steps": [
+      {"title": "选择平台模式（货找人/人找货）", "ref": "platform-douyin", "note": "算法公域爆发"},
+      {"title": "设定栏目与人设", "ref": "method-content-model", "note": "固定栏目+人格化"},
+      {"title": "首场话题+名人IP引爆", "ref": "case-luoyonghao", "note": "话题预热+脱口秀式直播"},
+      {"title": "跟进供应链与履约", "ref": "live-stage1", "note": "早期品控与物流准备"}
+    ]
+  },
+  {
+    "id": "path-live-compliance",
+    "title": "直播合规与去中心化",
+    "summary": "在监管加强背景下分散风险并规范运营。",
+    "steps": [
+      {"title": "识别合规红线", "ref": "case-viya", "note": "税务与广告规范"},
+      {"title": "分散头部依赖", "ref": "model-five-party", "note": "扶持中长尾"},
+      {"title": "拓展视频号私域", "ref": "platform-video-account", "note": "社交流量稳态"},
+      {"title": "建立品控与售后", "ref": "platform-taobao", "note": "正品保障与售后"}
+    ]
+  },
+  {
+    "id": "path-local-loop",
+    "title": "本地生活内容转化闭环",
+    "summary": "探店种草到私域复购的链路设计。",
+    "steps": [
+      {"title": "达人探店种草", "ref": "locallife-content", "note": "短视频/笔记挂POI"},
+      {"title": "引流私域承接", "ref": "locallife-public-private", "note": "微信群/会员"},
+      {"title": "商户工具赋能", "ref": "locallife-merchant-digital", "note": "数据看板+优惠"},
+      {"title": "榜单口碑放大", "ref": "locallife-rankings", "note": "榜单与评价二次曝光"}
+    ]
+  },
+  {
+    "id": "path-local-omni",
+    "title": "本地生活全渠道打法",
+    "summary": "多平台联动与社群预售组合。",
+    "steps": [
+      {"title": "分工平台获取流量", "ref": "locallife-omni", "note": "抖音曝光+小红书长尾+美团转化"},
+      {"title": "社区团购预售", "ref": "locallife-kuaiktuantuan", "note": "预售自提"},
+      {"title": "补贴冲量抢心智", "ref": "locallife-playbook-subsidy", "note": "城市闪电战"},
+      {"title": "服务标准化稳口碑", "ref": "locallife-standardization", "note": "履约准时率与体验"}
+    ]
+  },
+  {
+    "id": "path-social-launch",
+    "title": "社交产品冷启动",
+    "summary": "填充内容、设计破冰、建立信任并获取种子用户。",
+    "steps": [
+      {"title": "填充种子内容", "ref": "social-scarcity", "note": "避免冷场"},
+      {"title": "破冰玩法上线", "ref": "social-icebreak", "note": "话题/游戏/去中心化推荐"},
+      {"title": "信任与合规", "ref": "social-trust", "note": "实名+审核"},
+      {"title": "渠道投放与裂变", "ref": "social-acquisition", "note": "内容投放+邀请"}
+    ]
+  },
+  {
+    "id": "path-game-lifecycle",
+    "title": "游戏长生命周期运营",
+    "summary": "控制买量成本、内容迭代、UGC与变现平衡。",
+    "steps": [
+      {"title": "精细买量与内容引流", "ref": "game-traffic-cost", "note": "短视频/社区降低CAC"},
+      {"title": "高频版本更新", "ref": "game-version-ops", "note": "新角色/剧情"},
+      {"title": "UGC生态激励", "ref": "game-ugc", "note": "二创与分成"},
+      {"title": "多层次变现设计", "ref": "game-revenue", "note": "抽卡+皮肤+战令"}
+    ]
+  }
+]

@@ -1,0 +1,2650 @@
+[
+  {
+    "id": "framework-industry-tree",
+    "type": "concept",
+    "title": "互联网行业分类树与约束",
+    "summary": "按电商、本地生活、教育、游戏等12类梳理核心增长约束。",
+    "body": "\n将互联网划分为电商、本地生活、教育、游戏、工具、泛内容、社交、金融科技、SaaS、医疗、文旅、硬件等赛道，每类对应供给、信任、履约、频次、监管等瓶颈。用于识别策略优先级。",
+    "tags": [
+      "行业分类",
+      "增长约束"
+    ],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "playbook_steps": [],
+    "pitfalls": [
+      "忽视行业特定瓶颈会导致策略错位"
+    ],
+    "related_ids": [
+      "framework-stp",
+      "method-channel-combo"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "0.1 行业分类树",
+        "locator": "开头",
+        "excerpt": "电商、本地生活、教育、游戏、工具与效率、泛内容、社交等类别，核心增长约束包括供给、信任、履约、频次、监管等。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "framework-stp",
+    "type": "method",
+    "title": "STP 营销模型",
+    "summary": "细分市场、目标选择、定位，确定增长主叙事。",
+    "body": "通过Segmentation细分用户，Targeting选定核心人群，Positioning确定主叙事，保证策略有明确受众和差异点。",
+    "tags": [
+      "STP",
+      "定位"
+    ],
+    "stage": [
+      "Strategy",
+      "Acquisition"
+    ],
+    "channel": [
+      "内容",
+      "投放"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "划分细分市场",
+      "选定目标人群",
+      "输出主叙事与卖点"
+    ],
+    "pitfalls": [
+      "受众过宽导致资源分散",
+      "定位与渠道不匹配"
+    ],
+    "related_ids": [
+      "framework-4p7p",
+      "framework-aarrr"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "0.2 通用增长理论框架",
+        "locator": "STP段",
+        "excerpt": "STP：先细分市场，再选定核心目标群体，最后制定清晰定位与主叙事。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "framework-4p7p",
+    "type": "method",
+    "title": "4P / 7P 营销组合",
+    "summary": "产品、价格、渠道、推广（加人、流程、展示）综合决策。",
+    "body": "4P关注产品、价格、渠道、推广；服务业扩展为7P加入人员、流程、有形展示。增长方案需综合匹配目标用户与场景。",
+    "tags": [
+      "4P",
+      "7P"
+    ],
+    "stage": [
+      "Strategy",
+      "Activation"
+    ],
+    "channel": [
+      "产品",
+      "投放"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "明确产品卖点",
+      "制定定价与促销",
+      "选择渠道",
+      "配置人员与流程"
+    ],
+    "pitfalls": [
+      "只投放不改产品",
+      "服务展示缺失降低信任"
+    ],
+    "related_ids": [
+      "framework-stp",
+      "framework-aarrr"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "4P/7P营销组合",
+        "locator": "0.2",
+        "excerpt": "4P指Product、Price、Place、Promotion；服务业延伸为7P，加People、Process、Physical evidence。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "framework-aarrr",
+    "type": "method",
+    "title": "AARRR 漏斗模型",
+    "summary": "获取、激活、留存、收入、传播五环节定位增长动作。",
+    "body": "用 Acquisition、Activation、Retention、Revenue、Referral 拆解用户旅程，对应不同策略（如裂变、会员、付费转化）。",
+    "tags": [
+      "AARRR",
+      "漏斗"
+    ],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [
+      "转化率",
+      "留存率"
+    ],
+    "playbook_steps": [
+      "识别主战场环节",
+      "匹配动作与指标",
+      "监测分环节数据"
+    ],
+    "pitfalls": [
+      "动作与环节错配",
+      "未定义核心指标"
+    ],
+    "related_ids": [
+      "framework-nsm",
+      "framework-ltv-cac"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "AARRR漏斗模型",
+        "locator": "0.2",
+        "excerpt": "Acquisition获取、Activation激活、Retention留存、Revenue变现、Referral传播，对应典型动作如裂变、会员积分等。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "framework-nsm",
+    "type": "metric",
+    "title": "北极星指标（NSM）",
+    "summary": "与用户价值直接相关、能驱动其他指标的唯一核心指标。",
+    "body": "选择能代表产品价值且可驱动增长的核心指标，如短视频的日均观看时长。统一团队目标。",
+    "tags": [
+      "北极星指标"
+    ],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "产品"
+    ],
+    "metrics": [
+      "NSM"
+    ],
+    "playbook_steps": [
+      "梳理价值链",
+      "挑选单一指标",
+      "验证与业务正相关"
+    ],
+    "pitfalls": [
+      "选择与收入无关的虚荣指标"
+    ],
+    "related_ids": [
+      "framework-aarrr"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "北极星指标",
+        "locator": "0.2",
+        "excerpt": "NSM应与用户价值直接相关并能驱动其他指标，如短视频平台可设日均观看时长。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "framework-ltv-cac",
+    "type": "metric",
+    "title": "LTV / CAC 收支模型",
+    "summary": "保证用户生命周期价值高于获客成本，增长才可持续。",
+    "body": "计算用户生命周期价值与获客成本，提升ARPU或降低CAC，让LTV>CAC，避免烧钱亏损式扩张。",
+    "tags": [
+      "LTV",
+      "CAC"
+    ],
+    "stage": [
+      "Revenue",
+      "Acquisition"
+    ],
+    "channel": [
+      "投放"
+    ],
+    "metrics": [
+      "LTV",
+      "CAC"
+    ],
+    "playbook_steps": [
+      "测算单用户价值",
+      "优化获客成本",
+      "定期复盘ROI"
+    ],
+    "pitfalls": [
+      "忽视留存导致LTV虚高",
+      "过度补贴推高CAC"
+    ],
+    "related_ids": [
+      "framework-aarrr",
+      "method-ice-rice"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "LTV/CAC",
+        "locator": "0.2",
+        "excerpt": "LTV> CAC 时用户才带来正向价值；若CAC高于转化贡献需优化投放或变现。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "method-channel-combo",
+    "type": "method",
+    "title": "渠道组合与漏斗匹配",
+    "summary": "不同渠道在AARRR中作用不同，需扬长避短组合运用。",
+    "body": "搜索广告意图强、转化高但覆盖有限；社交媒体覆盖广意图弱需内容培养。按漏斗环节选择渠道，打通种草到交易。",
+    "tags": [
+      "渠道组合",
+      "投放"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "投放",
+      "内容"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "列出渠道角色",
+      "分配预算",
+      "监测漏斗"
+    ],
+    "pitfalls": [
+      "单一渠道依赖",
+      "种草与交易链路断裂"
+    ],
+    "related_ids": [
+      "framework-aarrr",
+      "locallife-public-private"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "渠道组合与转化漏斗",
+        "locator": "0.2",
+        "excerpt": "搜索广告意图强转化高但覆盖有限，社交媒体覆盖广意图弱需内容培养转化。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "method-content-model",
+    "type": "method",
+    "title": "栏目/人设/叙事内容模型",
+    "summary": "通过固定栏目、IP人设和持续叙事形成留存与传播。",
+    "body": "设定固定栏目（如每周主题直播）、打造人格化IP、持续讲故事，降低生产成本并提升用户期待与信任。",
+    "tags": [
+      "内容运营",
+      "人设"
+    ],
+    "stage": [
+      "Activation",
+      "Retention"
+    ],
+    "channel": [
+      "内容",
+      "直播"
+    ],
+    "metrics": [
+      "留存率"
+    ],
+    "playbook_steps": [
+      "确定栏目周期",
+      "设计IP人设",
+      "规划叙事主线"
+    ],
+    "pitfalls": [
+      "栏目断更导致流失",
+      "人设崩塌"
+    ],
+    "related_ids": [
+      "platform-douyin",
+      "case-oriental"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "内容增长模型",
+        "locator": "0.2",
+        "excerpt": "通过固定栏目机制、IP人设和持续叙事积累用户心智，形成留存和传播。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "method-ice-rice",
+    "type": "method",
+    "title": "ICE / RICE 增长实验优先级",
+    "summary": "用影响、信心、易用度或触达评估创意，优先高分试验。",
+    "body": "ICE=Impact+Confidence+Ease；RICE加Reach。对候选增长实验打分，先小流量验证，再决定放量。",
+    "tags": [
+      "实验",
+      "优先级"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation",
+      "Retention"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [
+      "实验成功率"
+    ],
+    "playbook_steps": [
+      "列创意",
+      "打分排序",
+      "小流量验证"
+    ],
+    "pitfalls": [
+      "主观打分偏差",
+      "未经验证即全量"
+    ],
+    "related_ids": [
+      "framework-ltv-cac"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "增长实验方法",
+        "locator": "0.2",
+        "excerpt": "增长团队用ICE或RICE打分，优先尝试高分方案，用小流量实验结果决定是否全面推行。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "template-case-fields",
+    "type": "template",
+    "title": "标准化案例条目模板",
+    "summary": "行业/赛道/产品形态、阶段、目标、约束、动作、机制、指标等字段。",
+    "body": "模板涵盖行业、产品、阶段、目标、约束、策略总览、漏斗定位、具体动作、机制解释、渠道、执行细节、指标结果、风险、可迁移结论、来源。",
+    "tags": [
+      "模板",
+      "案例"
+    ],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "playbook_steps": [
+      "按字段填写案例",
+      "保持颗粒一致便于对比"
+    ],
+    "pitfalls": [
+      "字段缺失导致不可比"
+    ],
+    "related_ids": [
+      "framework-action-mechanism"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "0.3 标准化案例条目模板",
+        "locator": "0.3",
+        "excerpt": "每个“公司×产品×动作”按行业、阶段、目标、约束、动作、机制、渠道、执行、指标、风险、可迁移结论等字段呈现。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "framework-action-mechanism",
+    "type": "method",
+    "title": "动作→机制→指标→条件→迁移",
+    "summary": "从案例提炼可迁移打法的五步法。",
+    "body": "先描述动作，再解释机制，明确指标，提炼成功条件与失效场景，最后总结可迁移部分。",
+    "tags": [
+      "方法论"
+    ],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [
+      "目标指标"
+    ],
+    "playbook_steps": [
+      "记录动作",
+      "分析机制",
+      "列出条件",
+      "提炼可迁移要素"
+    ],
+    "pitfalls": [
+      "跳过条件导致生搬硬套"
+    ],
+    "related_ids": [
+      "template-case-fields"
+    ],
+    "sources": [
+      {
+        "file_name": "第0卷｜总目录与方法论_副本.docx",
+        "section_heading": "0.4 从案例到打法",
+        "locator": "全文",
+        "excerpt": "动作→机制→指标→条件→迁移：描述事实，分析原理，明确KPI，推断前提，提炼可迁移与不可复制部分。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "live-stage1",
+    "type": "concept",
+    "title": "直播电商阶段1：淘宝起势（2016-2017）",
+    "summary": "淘宝直播上线引爆行业，薇娅等主播崛起，交易额小但增速惊人。",
+    "body": "2016被视为直播电商元年，淘宝直播上线；薇娅4个月单场破亿，京东、快手试水。",
+    "tags": [
+      "直播电商",
+      "阶段"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "直播"
+    ],
+    "metrics": [
+      "GMV",
+      "场观"
+    ],
+    "playbook_steps": [],
+    "pitfalls": [
+      "供应链与合规尚未成熟"
+    ],
+    "related_ids": [
+      "live-stage2",
+      "platform-taobao"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "行业发展简史",
+        "locator": "阶段1",
+        "excerpt": "2016年淘宝直播上线，主播薇娅4个月后单场成交破亿元，行业进入直播带货序幕。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "live-stage2",
+    "type": "concept",
+    "title": "阶段2：多平台分化与网红带货（2018-2019）",
+    "summary": "抖音、快手入局，李佳琦走红，“货找人”与“人找货”分野形成。",
+    "body": "2018抖音、快手大举进军电商，辛巴等头部出现，李佳琦成名，平台模式分化。",
+    "tags": [
+      "直播电商",
+      "抖音",
+      "快手"
+    ],
+    "stage": [
+      "Acquisition"
+    ],
+    "channel": [
+      "直播",
+      "短视频"
+    ],
+    "metrics": [
+      "GMV"
+    ],
+    "playbook_steps": [],
+    "pitfalls": [
+      "过度依赖头部主播"
+    ],
+    "related_ids": [
+      "live-stage3",
+      "platform-douyin"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "行业发展简史",
+        "locator": "阶段2",
+        "excerpt": "2018快手牵手有赞，抖音内测购物车，李佳琦成名，“人找货”淘宝与“货找人”抖音模式分化。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "live-stage3",
+    "type": "concept",
+    "title": "阶段3：疫情催化爆发（2020）",
+    "summary": "疫情让直播带货GMV翻倍，罗永浩首秀1.1亿元，监管开始介入。",
+    "body": "2020直播电商GMV突破9000亿，明星CEO上阵，罗永浩首秀3小时1.1亿，薇娅卖火箭引爆话题，出台规范。",
+    "tags": [
+      "疫情",
+      "爆发"
+    ],
+    "stage": [
+      "Acquisition",
+      "Revenue"
+    ],
+    "channel": [
+      "直播"
+    ],
+    "metrics": [
+      "GMV"
+    ],
+    "playbook_steps": [],
+    "pitfalls": [
+      "合规与品质风险增大"
+    ],
+    "related_ids": [
+      "live-stage4",
+      "case-luoyonghao",
+      "proof-live-2020-gmv"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "行业发展简史",
+        "locator": "阶段3",
+        "excerpt": "2020年直播电商GMV突破9000亿元；罗永浩首秀3小时4800万围观、成交1.1亿元。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "live-stage4",
+    "type": "concept",
+    "title": "阶段4：监管与主播生态巨变（2021-2022）",
+    "summary": "薇娅等头部因税务退出，平台去中心化，品牌自播与腰部崛起。",
+    "body": "2021薇娅偷逃税被罚13.41亿封禁，平台扶持多元主播和商家自播，强化规则。",
+    "tags": [
+      "合规",
+      "去中心化"
+    ],
+    "stage": [
+      "Retention",
+      "Revenue"
+    ],
+    "channel": [
+      "直播"
+    ],
+    "metrics": [
+      "GMV",
+      "复购"
+    ],
+    "playbook_steps": [],
+    "pitfalls": [
+      "过度依赖头部风险"
+    ],
+    "related_ids": [
+      "live-stage5",
+      "case-viya"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "行业发展简史",
+        "locator": "阶段4",
+        "excerpt": "薇娅因偷逃税被罚13.41亿元账号封禁；平台扶持品牌自播和腰部达人，规则收紧。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "live-stage5",
+    "type": "concept",
+    "title": "阶段5：平台收敛与规范发展（2023-2024）",
+    "summary": "抖音领先但淘宝、快手、视频号分庭抗礼，合规常态化，重价值共生。",
+    "body": "2023后直播电商从流量竞争转向价值共生，各平台补短板，视频号崛起，监管常态化。",
+    "tags": [
+      "成熟期",
+      "多平台"
+    ],
+    "stage": [
+      "Retention",
+      "Revenue"
+    ],
+    "channel": [
+      "直播",
+      "私域"
+    ],
+    "metrics": [
+      "GMV",
+      "复购"
+    ],
+    "playbook_steps": [],
+    "pitfalls": [
+      "平台规则变化"
+    ],
+    "related_ids": [
+      "platform-video-account",
+      "platform-douyin"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "阶段5",
+        "locator": "2023-2024",
+        "excerpt": "抖音巩固推荐优势，淘宝加内容，快手强化社区，视频号崛起；行业规范透明，重价值共生。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "platform-douyin",
+    "type": "concept",
+    "title": "抖音兴趣电商机制",
+    "summary": "算法“货找人”，短视频+直播+商城+搜索闭环，公域爆发力强。",
+    "body": "依托推荐算法，将商品推给兴趣用户，短视频引流直播转化，商城搜索承接，工具如福袋、秒杀增强互动。",
+    "tags": [
+      "抖音",
+      "兴趣电商"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "短视频",
+      "直播"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "短视频种草",
+      "直播承接",
+      "商城复购"
+    ],
+    "pitfalls": [
+      "粉丝沉淀弱需加强留存"
+    ],
+    "related_ids": [
+      "platform-taobao",
+      "case-luoyonghao"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "抖音直播电商",
+        "locator": "平台机制",
+        "excerpt": "抖音以“货找人”，短视频+直播+商城+搜索闭环，算法分发公域流量，福袋、秒杀等工具增强互动。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "platform-taobao",
+    "type": "concept",
+    "title": "淘宝直播机制",
+    "summary": "“人找货”+粉丝沉淀，交易链路最短，信任和供应链优势突出。",
+    "body": "用户带着购物意图进入直播，粉丝关注推送回访，直播间直接下单，正品保障和售后完善提升转化。",
+    "tags": [
+      "淘宝",
+      "货架电商"
+    ],
+    "stage": [
+      "Activation",
+      "Revenue"
+    ],
+    "channel": [
+      "直播",
+      "货架"
+    ],
+    "metrics": [
+      "转化率",
+      "GMV"
+    ],
+    "playbook_steps": [
+      "粉丝运营",
+      "大促节奏",
+      "商品讲解"
+    ],
+    "pitfalls": [
+      "算法推荐弱，新客获取难"
+    ],
+    "related_ids": [
+      "platform-douyin"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "淘宝直播",
+        "locator": "平台机制",
+        "excerpt": "淘宝以“人找货”主导，粉丝订阅推送，直播链路短、正品与售后完善，转化高。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "platform-kuaishou",
+    "type": "concept",
+    "title": "快手信任电商",
+    "summary": "熟人+关注流，老铁文化高黏性，低价拼团常态。",
+    "body": "强调粉丝关系链与家族矩阵，直播节奏慢但停留长，信任带来高转化高客单，下沉市场优势。",
+    "tags": [
+      "快手",
+      "信任电商"
+    ],
+    "stage": [
+      "Activation",
+      "Retention"
+    ],
+    "channel": [
+      "直播",
+      "社群"
+    ],
+    "metrics": [
+      "复购率"
+    ],
+    "playbook_steps": [
+      "家族矩阵互推",
+      "拼团秒杀",
+      "粉丝社群运营"
+    ],
+    "pitfalls": [
+      "冷启动难，质量风险"
+    ],
+    "related_ids": [
+      "case-xinba"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "快手直播带货",
+        "locator": "平台机制",
+        "excerpt": "快手以熟人社交和“老铁经济”，粉丝黏性高，强调信任电商与拼团低价。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "platform-video-account",
+    "type": "concept",
+    "title": "微信视频号直播",
+    "summary": "依托微信私域裂变，一键转发，交易闭环于小程序。",
+    "body": "优势在社交流量与私域沉淀，公众号/朋友圈/社群触达，直播挂小程序店铺，转化顺畅。",
+    "tags": [
+      "视频号",
+      "私域"
+    ],
+    "stage": [
+      "Acquisition",
+      "Retention"
+    ],
+    "channel": [
+      "直播",
+      "私域"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "多触点通知",
+      "社群运营",
+      "闭环小程序"
+    ],
+    "pitfalls": [
+      "公域流量弱，需要外部导流"
+    ],
+    "related_ids": [
+      "platform-douyin",
+      "live-stage5"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "微信视频号直播",
+        "locator": "平台机制",
+        "excerpt": "视频号依托微信生态，朋友圈/公众号/群一键触达并裂变，商品多为小程序店铺，支付顺畅。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "model-five-party",
+    "type": "concept",
+    "title": "直播电商五方生态协同",
+    "summary": "平台、主播、机构、商家、供应链的博弈与协同。",
+    "body": "平台定规则分流量，主播负责转化，MCN提供运营，商家与供应链供货。去中心化与合规促使多方平衡。",
+    "tags": [
+      "生态",
+      "协同"
+    ],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "直播"
+    ],
+    "metrics": [
+      "GMV",
+      "履约率"
+    ],
+    "playbook_steps": [
+      "明确分工",
+      "规范分成",
+      "平衡头部与长尾"
+    ],
+    "pitfalls": [
+      "头部垄断、品质失控"
+    ],
+    "related_ids": [
+      "platform-douyin",
+      "case-viya"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "五方角色生态协同模型",
+        "locator": "模型部分",
+        "excerpt": "平台分发流量，主播转化，MCN代运营，商家供货，供应链支撑履约，需平衡利益与规则。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "case-viya",
+    "type": "case",
+    "title": "薇娅税务事件",
+    "summary": "头部主播因偷逃税被罚13.41亿并封号，凸显合规风险。",
+    "body": "2021年底薇娅因偷税被处罚并全网封禁，展示头部依赖与财税风险，促使平台去中心化和主播自查。",
+    "tags": [
+      "合规",
+      "风险"
+    ],
+    "stage": [
+      "Revenue",
+      "Retention"
+    ],
+    "channel": [
+      "直播"
+    ],
+    "metrics": [
+      "GMV"
+    ],
+    "playbook_steps": [
+      "规范报税",
+      "分散头部风险"
+    ],
+    "pitfalls": [
+      "合规缺失导致业务中断"
+    ],
+    "related_ids": [
+      "live-stage4",
+      "model-five-party",
+      "proof-viya-tax"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "阶段4",
+        "locator": "税务事件",
+        "excerpt": "薇娅因偷逃税被罚13.41亿元，账号封禁，促使行业合规调整。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "case-xinba",
+    "type": "case",
+    "title": "辛巴信任电商打法",
+    "summary": "人格信任+家族矩阵+低价拼团，假燕窝事件显示品质风险。",
+    "body": "辛巴以“大哥”人设与家族矩阵运营，拼团低价带动下沉市场；假燕窝事件后全额赔付并停播，强调品控。",
+    "tags": [
+      "信任电商",
+      "拼团"
+    ],
+    "stage": [
+      "Acquisition",
+      "Retention"
+    ],
+    "channel": [
+      "直播",
+      "社群"
+    ],
+    "metrics": [
+      "GMV",
+      "复购率"
+    ],
+    "playbook_steps": [
+      "人格化直播",
+      "家族矩阵互推",
+      "低价秒杀",
+      "危机赔付"
+    ],
+    "pitfalls": [
+      "品控缺失引发信任崩塌"
+    ],
+    "related_ids": [
+      "platform-kuaishou",
+      "model-five-party"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "案例 辛巴",
+        "locator": "信任危机段",
+        "excerpt": "辛巴家族式运营+低价拼团，高复购；假燕窝事件后赔付约6000万并停播整改，信任受损。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "case-luoyonghao",
+    "type": "case",
+    "title": "罗永浩“交个朋友”内容带货",
+    "summary": "名人IP+脱口秀式直播，首秀1.1亿，靠专业选品与真诚道歉维系信任。",
+    "body": "以幽默内容和数码专业度留人，首秀GMV1.1亿；严格选品与先行赔付塑造靠谱形象。",
+    "tags": [
+      "内容带货",
+      "名人IP"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "直播",
+      "短视频"
+    ],
+    "metrics": [
+      "GMV",
+      "观看时长"
+    ],
+    "playbook_steps": [
+      "话题预热",
+      "脱口秀讲解",
+      "严格选品",
+      "公开道歉与赔付"
+    ],
+    "pitfalls": [
+      "流量波动大，品牌方关系敏感"
+    ],
+    "related_ids": [
+      "platform-douyin"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "案例 罗永浩",
+        "locator": "策略拆解",
+        "excerpt": "首秀3小时成交1.1亿元；以脱口秀式内容、严格选品和真诚道歉建立信任。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "case-oriental",
+    "type": "case",
+    "title": "东方甄选知识直播",
+    "summary": "双语知识化直播爆红，一周粉丝千万，严选供应链与自有品牌。",
+    "body": "董宇辉用中英双语讲解农产品，内容差异化带来爆发；严控选品、发展自有品牌并矩阵化账号。",
+    "tags": [
+      "知识直播",
+      "差异化"
+    ],
+    "stage": [
+      "Acquisition",
+      "Retention"
+    ],
+    "channel": [
+      "直播",
+      "内容"
+    ],
+    "metrics": [
+      "粉丝增长",
+      "复购"
+    ],
+    "playbook_steps": [
+      "内容差异化",
+      "供应链严选",
+      "矩阵账号",
+      "危机时主播策略调整"
+    ],
+    "pitfalls": [
+      "核心主播依赖，扩张品控难"
+    ],
+    "related_ids": [
+      "method-content-model"
+    ],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "案例 东方甄选",
+        "locator": "策略拆解",
+        "excerpt": "董宇辉双语知识直播，一周粉丝从百万到千万；主打严选农产品，自有品牌和矩阵账号扩张。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-market",
+    "type": "concept",
+    "title": "本地生活市场格局与增长",
+    "summary": "美团领跑，抖音、小红书、阿里、京东等多平台混战，线上渗透率约30%。",
+    "body": "预计2025本地生活规模35.3万亿元，线上渗透30.8%；美团龙头，抖音后发制人，到店团购高速增长。",
+    "tags": [
+      "本地生活",
+      "市场"
+    ],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "本地",
+      "内容",
+      "配送"
+    ],
+    "metrics": [
+      "GMV",
+      "渗透率"
+    ],
+    "playbook_steps": [],
+    "pitfalls": [
+      "履约和供给密度决定天花板"
+    ],
+    "related_ids": [
+      "locallife-supply-traffic",
+      "locallife-omni"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "市场规模与渗透",
+        "locator": "开头",
+        "excerpt": "2025年本地生活市场规模可达35.3万亿元，线上渗透率约30.8%，美团龙头，抖音本地生活支付GMV同比增长超8倍。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-supply-traffic",
+    "type": "concept",
+    "title": "供给密度 vs 流量获取",
+    "summary": "早期稀缺在商户供给，成熟后约束转向流量转化与效率。",
+    "body": "供给不足限制转化，美团百团大战靠高密度商户取胜；现在一线供给饱和，机会在于提高内容流量转化（抖音、小红书）。",
+    "tags": [
+      "供需",
+      "转化"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "本地",
+      "内容"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "拓展供给",
+      "内容导流",
+      "优化转化链路"
+    ],
+    "pitfalls": [
+      "只补贴拉新但供给弱导致流失"
+    ],
+    "related_ids": [
+      "locallife-content",
+      "locallife-public-private",
+      "proof-meituan-density"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "增长约束与机会",
+        "locator": "供给密度 vs 流量获取",
+        "excerpt": "早期约束在商户覆盖，成熟后约束转向流量转化效率；抖音、小红书用内容流量撬动增量。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-standardization",
+    "type": "concept",
+    "title": "服务标准化与履约体验",
+    "summary": "评价体系、榜单、智能配送提升一致性与准时率。",
+    "body": "长尾小店服务参差，平台通过评价榜单优胜劣汰，配送智能分单将准时率提升至98%，提升留存。",
+    "tags": [
+      "标准化",
+      "履约"
+    ],
+    "stage": [
+      "Retention",
+      "Activation"
+    ],
+    "channel": [
+      "履约",
+      "评价"
+    ],
+    "metrics": [
+      "准时率",
+      "评分"
+    ],
+    "playbook_steps": [
+      "榜单与评价透明",
+      "智能调度配送"
+    ],
+    "pitfalls": [
+      "服务体验差导致复购低"
+    ],
+    "related_ids": [
+      "locallife-merchant-digital"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "服务标准化与履约体验",
+        "locator": "相关段落",
+        "excerpt": "榜单评价提升透明度；美团配送准时率达98%，履约体验直接影响复购。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-merchant-digital",
+    "type": "method",
+    "title": "商户数字化与工具赋能",
+    "summary": "通过商家版App、服务商培训、会员与优惠券提升经营力。",
+    "body": "提供数据看板、会员、优惠券工具；服务商手把手培训提升转化，如优化菜名点击率提升40%。",
+    "tags": [
+      "商户数字化"
+    ],
+    "stage": [
+      "Activation",
+      "Retention"
+    ],
+    "channel": [
+      "本地",
+      "私域"
+    ],
+    "metrics": [
+      "转化率",
+      "复购率"
+    ],
+    "playbook_steps": [
+      "部署工具",
+      "培训商家",
+      "监控数据迭代"
+    ],
+    "pitfalls": [
+      "工具使用率低，运营跟不上"
+    ],
+    "related_ids": [
+      "locallife-public-private"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "商户经营工具与数字化",
+        "locator": "相关段落",
+        "excerpt": "美团商家版、服务商模式手把手教商户，优化菜单点击率提升40%。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-content",
+    "type": "method",
+    "title": "内容种草驱动本地决策",
+    "summary": "探店短视频/笔记引导“种草→下单→体验→评价”链路。",
+    "body": "探店KOL短视频、小红书笔记成为决策入口；在视频内挂POI团购券缩短链路，评论精选二次利用。",
+    "tags": [
+      "内容种草",
+      "UGC"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "短视频",
+      "社区"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "招募达人探店",
+      "嵌入购买入口",
+      "精选UGC作为决策参考"
+    ],
+    "pitfalls": [
+      "种草不拔草，链路断裂"
+    ],
+    "related_ids": [
+      "locallife-public-private",
+      "locallife-rankings"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "内容策略",
+        "locator": "种草与决策",
+        "excerpt": "探店短视频/笔记引发“种草→下单团购→到店→评价”的链路，视频内挂团购券缩短转化。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-rankings",
+    "type": "method",
+    "title": "榜单与口碑信任",
+    "summary": "必吃榜、真榜等提升信任，吸引品质消费。",
+    "body": "大众点评必吃榜、高德扫街榜、京东真榜等以数据+盲评提升可信度，帮助用户快速决策。",
+    "tags": [
+      "榜单",
+      "口碑"
+    ],
+    "stage": [
+      "Activation"
+    ],
+    "channel": [
+      "评价",
+      "内容"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "构建评分体系",
+      "透明榜单规则",
+      "线下标识强化信任"
+    ],
+    "pitfalls": [
+      "榜单造假伤害公信力"
+    ],
+    "related_ids": [
+      "locallife-standardization"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "榜单与评价内容",
+        "locator": "相关段落",
+        "excerpt": "高德“扫街榜”、京东真榜等通过数据+盲评提升评价可信度，促成转化。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-public-private",
+    "type": "method",
+    "title": "公域种草 + 私域承接",
+    "summary": "公域获取曝光，微信群/会员沉淀复购，提升LTV。",
+    "body": "抖音短视频引流，评论引导加微信群；快团团把下单用户拉群，复购率达65%；美团会员、私域推送提升留存。",
+    "tags": [
+      "私域",
+      "社群"
+    ],
+    "stage": [
+      "Retention",
+      "Referral"
+    ],
+    "channel": [
+      "私域",
+      "社群",
+      "短视频"
+    ],
+    "metrics": [
+      "复购率",
+      "LTV"
+    ],
+    "playbook_steps": [
+      "公域内容投放",
+      "引导加群",
+      "定期福利促活"
+    ],
+    "pitfalls": [
+      "群运营粗暴造成骚扰"
+    ],
+    "related_ids": [
+      "locallife-merchant-digital",
+      "locallife-kuaiktuantuan"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "公域种草与私域转化",
+        "locator": "相关段落",
+        "excerpt": "快团团模式要求商家拉用户入微信群，复购率达65%；抖音、小红书内容引流再私域沉淀。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-omni",
+    "type": "method",
+    "title": "多平台全渠道组合",
+    "summary": "抖音获取冷流量，小红书长尾种草，美团/点评收割高意向，微信承接私域。",
+    "body": "短视频适合冷启动曝光，社区笔记提供长期搜索流量，交易平台转化，微信小程序与社群做复购。",
+    "tags": [
+      "全渠道",
+      "联动"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "短视频",
+      "社区",
+      "交易",
+      "私域"
+    ],
+    "metrics": [
+      "转化率"
+    ],
+    "playbook_steps": [
+      "平台分工",
+      "链路打通",
+      "差异化内容"
+    ],
+    "pitfalls": [
+      "渠道割裂造成流失"
+    ],
+    "related_ids": [
+      "locallife-content",
+      "locallife-public-private"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "渠道策略：多平台分发",
+        "locator": "相关段落",
+        "excerpt": "抖音短视频公域曝光，小红书长期种草，美团/点评收割高意向，微信私域沉淀复购。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-kuaiktuantuan",
+    "type": "case",
+    "title": "拼多多快团团预售+自提模式",
+    "summary": "商家自助开团、社群预售自提，复购率高、履约成本低。",
+    "body": "快团团为商家提供一键开团工具，预售+到店/自提，拉用户入微信群日常推送，部分酒店团购复购率65%。",
+    "tags": [
+      "社区团购",
+      "私域"
+    ],
+    "stage": [
+      "Acquisition",
+      "Retention"
+    ],
+    "channel": [
+      "私域",
+      "小程序"
+    ],
+    "metrics": [
+      "复购率"
+    ],
+    "playbook_steps": [
+      "预售建团",
+      "群运营",
+      "灵活履约"
+    ],
+    "pitfalls": [
+      "品控与核销压力"
+    ],
+    "related_ids": [
+      "locallife-public-private"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "快团团模式",
+        "locator": "案例段",
+        "excerpt": "快团团一键开团，商家自提/自配，微信群运营让团购用户复购率达65%。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "locallife-playbook-subsidy",
+    "type": "method",
+    "title": "地推补贴闪电战",
+    "summary": "高密度地推+补贴快速占领城市，但盈利承压。",
+    "body": "美团百团大战、京东外卖免佣等用补贴换规模；适合空白市场快速冷启动，成本高且补贴停后易流失。",
+    "tags": [
+      "补贴",
+      "地推"
+    ],
+    "stage": [
+      "Acquisition"
+    ],
+    "channel": [
+      "线下",
+      "投放"
+    ],
+    "metrics": [
+      "CAC",
+      "订单数"
+    ],
+    "playbook_steps": [
+      "确定目标城市",
+      "地推签商户",
+      "补贴拉新",
+      "及时收口优化"
+    ],
+    "pitfalls": [
+      "资金消耗大、停补贴掉量"
+    ],
+    "related_ids": [
+      "locallife-supply-traffic"
+    ],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "打法清单",
+        "locator": "地推补贴模式",
+        "excerpt": "地推补贴快速占领城市，如京东外卖免佣，适合新市场但盈利承压。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "social-scarcity",
+    "type": "concept",
+    "title": "社交产品稀缺要素：内容、破冰、信任",
+    "summary": "内容供给、破冰机制、信任安全是陌生人社交增长瓶颈。",
+    "body": "冷启动缺内容易“冷场”；需游戏化破冰提升互动；实名、审核、信用分等信任机制防诈骗，提高留存。",
+    "tags": [
+      "社交",
+      "冷启动"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "社交",
+      "内容"
+    ],
+    "metrics": [
+      "留存率"
+    ],
+    "playbook_steps": [
+      "种子内容填充",
+      "设计破冰玩法",
+      "建立信任与风控"
+    ],
+    "pitfalls": [
+      "内容贫瘠或安全事件导致崩盘"
+    ],
+    "related_ids": [
+      "social-icebreak",
+      "social-trust"
+    ],
+    "sources": [
+      {
+        "file_name": "第9卷 社交与关系链 – 增长与营销案例知识库_副本.docx",
+        "section_heading": "增长约束与机会",
+        "locator": "内容供给/破冰/信任",
+        "excerpt": "新社交平台常面临内容冷场；需破冰机制；信任与内容安全是留存基础。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "social-icebreak",
+    "type": "method",
+    "title": "破冰与互动刺激设计",
+    "summary": "话题引导、游戏化、匹配算法降低陌生人社交摩擦。",
+    "body": "语音房游戏、匿名树洞话题、匹配推荐帮助用户开口；Soul用去中心化推荐让更多人被看到。",
+    "tags": [
+      "破冰",
+      "匹配"
+    ],
+    "stage": [
+      "Activation"
+    ],
+    "channel": [
+      "社交",
+      "推荐"
+    ],
+    "metrics": [
+      "对话成功率"
+    ],
+    "playbook_steps": [
+      "设计话题/游戏",
+      "去中心化曝光",
+      "反馈数据迭代"
+    ],
+    "pitfalls": [
+      "话题质量低导致骚扰"
+    ],
+    "related_ids": [
+      "social-scarcity"
+    ],
+    "sources": [
+      {
+        "file_name": "第9卷 社交与关系链 – 增长与营销案例知识库_副本.docx",
+        "section_heading": "社交刺激与破冰",
+        "locator": "相关段落",
+        "excerpt": "语音群聊引导任务、内置游戏降低尬聊；Soul去中心化推荐让更多普通用户被看到。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "social-trust",
+    "type": "method",
+    "title": "信任与合规机制",
+    "summary": "实名、人脸、内容审核、信用分是社交平台生存底线。",
+    "body": "探探因涉黄下架整改显示信任重要；实名+AI+人工审核、反骚扰、信用惩罚防诈骗，满足监管。",
+    "tags": [
+      "信任",
+      "合规"
+    ],
+    "stage": [
+      "Retention"
+    ],
+    "channel": [
+      "安全"
+    ],
+    "metrics": [
+      "投诉率"
+    ],
+    "playbook_steps": [
+      "实名/风控上线",
+      "黑灰产治理",
+      "用户信用分"
+    ],
+    "pitfalls": [
+      "安全事件触发下架"
+    ],
+    "related_ids": [
+      "social-scarcity"
+    ],
+    "sources": [
+      {
+        "file_name": "第9卷 社交与关系链 – 增长与营销案例知识库_副本.docx",
+        "section_heading": "平台信任机制",
+        "locator": "探探整改",
+        "excerpt": "探探因涉黄内容被下架整改，实名、审核、信用分等机制是社交平台健康发展的底线。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "social-acquisition",
+    "type": "method",
+    "title": "社交获客渠道矩阵",
+    "summary": "内容投放、邀请裂变、活动、校园/下沉地推结合。",
+    "body": "Soul在知乎、豆瓣投放获取核心用户；邀请有礼、限量邀请码裂变；线下地推在酒吧/校园扫码；红包裂变如微信春节案例。",
+    "tags": [
+      "获客",
+      "裂变"
+    ],
+    "stage": [
+      "Acquisition"
+    ],
+    "channel": [
+      "投放",
+      "社交",
+      "线下"
+    ],
+    "metrics": [
+      "CAC"
+    ],
+    "playbook_steps": [
+      "选择内容平台投放",
+      "设计邀请激励",
+      "目标场景地推"
+    ],
+    "pitfalls": [
+      "刷量作弊",
+      "获客质量低"
+    ],
+    "related_ids": [
+      "social-scarcity"
+    ],
+    "sources": [
+      {
+        "file_name": "第9卷 社交与关系链 – 增长与营销案例知识库_副本.docx",
+        "section_heading": "渠道策略：流量获取与裂变",
+        "locator": "相关段落",
+        "excerpt": "Soul投放知乎豆瓣获取种子；邀请有礼裂变；线下校园/商圈扫码地推；微信红包春节病毒式传播。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "game-traffic-cost",
+    "type": "concept",
+    "title": "游戏流量红利消退与买量内卷",
+    "summary": "获客成本高企，广告素材月均千万级，需内容引流与精细投放。",
+    "body": "流量集中抬高CAC，上市游戏销售费用率约23.8%；短视频、社区内容成为新流量洼地。",
+    "tags": [
+      "游戏",
+      "买量"
+    ],
+    "stage": [
+      "Acquisition"
+    ],
+    "channel": [
+      "投放",
+      "短视频"
+    ],
+    "metrics": [
+      "CAC"
+    ],
+    "playbook_steps": [
+      "优化素材",
+      "内容种草",
+      "控制ROI"
+    ],
+    "pitfalls": [
+      "粗放买量亏损"
+    ],
+    "related_ids": [
+      "game-ugc",
+      "game-channel"
+    ],
+    "sources": [
+      {
+        "file_name": "游戏行业增长与营销案例知识库（第3卷）_副本.docx",
+        "section_heading": "流量红利消退",
+        "locator": "增长约束",
+        "excerpt": "获客成本连年攀升，广告素材月均消耗超2500万条，销售费用率达23.8%，需精细化与内容引流。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "game-version-ops",
+    "type": "method",
+    "title": "高频版本更新延长生命周期",
+    "summary": "版本大更频次同比提升4倍，通过新角色/剧情吸引回流。",
+    "body": "2024下半年主流手游版本大更新次数大增；王者荣耀每月新英雄新皮肤维持热度，召回老玩家。",
+    "tags": [
+      "版本更新",
+      "留存"
+    ],
+    "stage": [
+      "Retention"
+    ],
+    "channel": [
+      "产品"
+    ],
+    "metrics": [
+      "回流率",
+      "DAU"
+    ],
+    "playbook_steps": [
+      "规划版本节奏",
+      "内容宣发同步",
+      "配合召回礼包"
+    ],
+    "pitfalls": [
+      "更新质量差反噬口碑"
+    ],
+    "related_ids": [
+      "game-revenue"
+    ],
+    "sources": [
+      {
+        "file_name": "游戏行业增长与营销案例知识库（第3卷）_副本.docx",
+        "section_heading": "用户生命周期短",
+        "locator": "版本更新",
+        "excerpt": "2024年下半年版本大更次数同比激增428%；王者荣耀通过高频新英雄/皮肤维系热度。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "game-ugc",
+    "type": "method",
+    "title": "UGC/二创激励驱动增长",
+    "summary": "官方激励创作者，UGC传播让游戏自带流量，如原神、Roblox。",
+    "body": "原神与B站百万激励计划扶持二创；Roblox 2024向开发者支付9.2亿美元分成，DAU近1亿。UGC延伸内容与长尾曝光。",
+    "tags": [
+      "UGC",
+      "创作者"
+    ],
+    "stage": [
+      "Acquisition",
+      "Retention"
+    ],
+    "channel": [
+      "内容",
+      "社区"
+    ],
+    "metrics": [
+      "UGC量",
+      "传播"
+    ],
+    "playbook_steps": [
+      "开放素材工具",
+      "设立激励基金",
+      "社区宣推UGC"
+    ],
+    "pitfalls": [
+      "审核不严导致违规内容"
+    ],
+    "related_ids": [
+      "game-traffic-cost"
+    ],
+    "sources": [
+      {
+        "file_name": "游戏行业增长与营销案例知识库（第3卷）_副本.docx",
+        "section_heading": "内容策略",
+        "locator": "UGC生态",
+        "excerpt": "原神联合B站百万创作激励；Roblox向开发者支付9.2亿美元分成，UGC带来自来水式传播。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "game-channel",
+    "type": "concept",
+    "title": "渠道去中心化与TapTap零抽成",
+    "summary": "开发者倾向官网/TapTap避高分成，核心玩家聚集。",
+    "body": "安卓联运分成高达50%，TapTap零分成崛起并成第三大下载来源，4324万月活核心玩家，开发者保留收益。",
+    "tags": [
+      "渠道",
+      "分发"
+    ],
+    "stage": [
+      "Acquisition",
+      "Revenue"
+    ],
+    "channel": [
+      "应用商店",
+      "官网"
+    ],
+    "metrics": [
+      "分成率"
+    ],
+    "playbook_steps": [
+      "引导玩家下官方/TapTap包",
+      "社区口碑运营"
+    ],
+    "pitfalls": [
+      "渠道过窄影响规模"
+    ],
+    "related_ids": [
+      "game-traffic-cost",
+      "proof-taptap-zero-cut"
+    ],
+    "sources": [
+      {
+        "file_name": "游戏行业增长与营销案例知识库（第3卷）_副本.docx",
+        "section_heading": "渠道分发权重",
+        "locator": "TapTap",
+        "excerpt": "TapTap零抽成，4324万月活核心玩家，成为仅次于官网和苹果的第三大下载来源，开发者保留全部收入。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "game-revenue",
+    "type": "method",
+    "title": "Gacha/皮肤与通行证变现",
+    "summary": "扭蛋+皮肤直售+战令三件套平衡收入口碑。",
+    "body": "抽卡+保底提供收集动机，皮肤不破坏平衡，战斗通行证提高中度付费与留存；需透明掉率防过度氪金。",
+    "tags": [
+      "变现",
+      "付费设计"
+    ],
+    "stage": [
+      "Revenue"
+    ],
+    "channel": [
+      "游戏内购"
+    ],
+    "metrics": [
+      "ARPU",
+      "付费率"
+    ],
+    "playbook_steps": [
+      "设计保底",
+      "分层礼包",
+      "季票任务"
+    ],
+    "pitfalls": [
+      "逼氪伤口碑",
+      "未成年人保护"
+    ],
+    "related_ids": [
+      "game-version-ops"
+    ],
+    "sources": [
+      {
+        "file_name": "游戏行业增长与营销案例知识库（第3卷）_副本.docx",
+        "section_heading": "Revenue 变现",
+        "locator": "Gacha/通行证",
+        "excerpt": "扭蛋抽卡+皮肤直售是主流；战斗通行证提高中度付费并拉动留存，需透明掉率与平衡。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "travel-supply-demand",
+    "type": "concept",
+    "title": "出行与汽车双边供需驱动",
+    "summary": "平台需同时扩展乘客需求与司机/车辆供给，满足率是关键。",
+    "body": "网约车连接乘客与司机，滴滴活跃用户4.93亿、司机1500万；供需匹配与调度效率决定增长。",
+    "tags": [
+      "出行",
+      "供需"
+    ],
+    "stage": [
+      "Acquisition",
+      "Activation"
+    ],
+    "channel": [
+      "出行",
+      "地图"
+    ],
+    "metrics": [
+      "满足率",
+      "订单量"
+    ],
+    "playbook_steps": [
+      "招募运力",
+      "算法调度",
+      "补贴平衡供需"
+    ],
+    "pitfalls": [
+      "供给不足流失用户"
+    ],
+    "related_ids": [
+      "travel-compliance"
+    ],
+    "sources": [
+      {
+        "file_name": "10A 出行与汽车 (Travel & Automotive Industry)_副本.docx",
+        "section_heading": "行业概览",
+        "locator": "多边用户结构",
+        "excerpt": "网约车连接乘客与司机；滴滴2021年活跃用户4.93亿、司机1500万，需平衡供需。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "travel-compliance",
+    "type": "method",
+    "title": "合规与安全为增长前提",
+    "summary": "双证合规、数据安全、行程安全是上线与留存底线。",
+    "body": "网约车需车辆营运证+司机资格证；滴滴因数据问题被罚影响增长；顺风车安全事件显示行程录音、一键报警必要。",
+    "tags": [
+      "合规",
+      "安全"
+    ],
+    "stage": [
+      "Retention"
+    ],
+    "channel": [
+      "出行"
+    ],
+    "metrics": [
+      "投诉率",
+      "事故率"
+    ],
+    "playbook_steps": [
+      "推进双证",
+      "安全功能上线",
+      "数据合规治理"
+    ],
+    "pitfalls": [
+      "违规导致下架",
+      "安全事故毁信任"
+    ],
+    "related_ids": [
+      "travel-supply-demand"
+    ],
+    "sources": [
+      {
+        "file_name": "10A 出行与汽车 (Travel & Automotive Industry)_副本.docx",
+        "section_heading": "政策约束",
+        "locator": "合规案例",
+        "excerpt": "各地要求“双证”合规；滴滴曾因数据违规被巨额罚款上架受限，安全功能是留存前提。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "content-overview",
+    "type": "concept",
+    "title": "泛内容行业爆发与多形态共存",
+    "summary": "短视频用户10.5亿，UGC+PGC+OGC组合，时长从20分钟增至近2小时。",
+    "body": "短视频市场超3100亿，用户日均时长近2小时；图文、长视频、音频各寻定位，创作者结构多元。",
+    "tags": [
+      "短视频",
+      "UGC"
+    ],
+    "stage": [
+      "Acquisition",
+      "Retention"
+    ],
+    "channel": [
+      "内容",
+      "算法推荐"
+    ],
+    "metrics": [
+      "使用时长"
+    ],
+    "playbook_steps": [],
+    "pitfalls": [
+      "内容同质、监管风险"
+    ],
+    "related_ids": [
+      "content-algorithm"
+    ],
+    "sources": [
+      {
+        "file_name": "泛内容与媒体 行业增长与营销案例知识库（第二卷）_副本.docx",
+        "section_heading": "行业概览",
+        "locator": "开头",
+        "excerpt": "短视频用户规模10.5亿，市场超3100亿元；用户日均短视频时长由2018年20分钟到2024年近2小时；UGC+PGC+OGC组合供给。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "content-algorithm",
+    "type": "method",
+    "title": "算法分发与多渠道增长",
+    "summary": "从社交关注转向智能推荐；公域推荐+私域订阅结合，站外SEO/分享获客。",
+    "body": "抖音、头条千人千面推荐提高时长；知乎/豆瓣依赖话题与搜索；站外分享和SEO带来新客。",
+    "tags": [
+      "算法推荐",
+      "分发"
+    ],
+    "stage": [
+      "Acquisition",
+      "Retention"
+    ],
+    "channel": [
+      "推荐",
+      "搜索",
+      "社交"
+    ],
+    "metrics": [
+      "时长",
+      "留存"
+    ],
+    "playbook_steps": [
+      "优化推荐冷启动",
+      "私域关注结合",
+      "站外SEO/分享"
+    ],
+    "pitfalls": [
+      "信息茧房",
+      "外部平台封禁链接"
+    ],
+    "related_ids": [
+      "content-overview"
+    ],
+    "sources": [
+      {
+        "file_name": "泛内容与媒体 行业增长与营销案例知识库（第二卷）_副本.docx",
+        "section_heading": "内容分发逻辑",
+        "locator": "相关段落",
+        "excerpt": "平台从社交关注转向智能推荐；抖音头条千人千面，快手兼顾社交；知乎、豆瓣靠话题和搜索流量。"
+      }
+    ],
+    "children_ids": []
+  },
+  {
+    "id": "hub-foundations",
+    "type": "hub",
+    "title": "增长基础与模型",
+    "summary": "涵盖AARRR、北极星指标、实验优先级等基础框架",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "cluster-frameworks",
+      "cluster-metrics-experiments"
+    ],
+    "children_ids": [
+      "cluster-frameworks",
+      "cluster-metrics-experiments"
+    ],
+    "sources": []
+  },
+  {
+    "id": "hub-channel-content",
+    "type": "hub",
+    "title": "渠道与内容策略",
+    "summary": "渠道组合与内容增长模型",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "cluster-channel-combo",
+      "cluster-content-growth"
+    ],
+    "children_ids": [
+      "cluster-channel-combo",
+      "cluster-content-growth"
+    ],
+    "sources": []
+  },
+  {
+    "id": "hub-live",
+    "type": "hub",
+    "title": "直播电商",
+    "summary": "平台机制与主播打法",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "cluster-live-stages",
+      "cluster-live-playbook"
+    ],
+    "children_ids": [
+      "cluster-live-stages",
+      "cluster-live-playbook"
+    ],
+    "sources": []
+  },
+  {
+    "id": "hub-local",
+    "type": "hub",
+    "title": "本地生活与到店",
+    "summary": "供给密度、内容种草、私域闭环",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "cluster-local-omni",
+      "cluster-local-ops"
+    ],
+    "children_ids": [
+      "cluster-local-omni",
+      "cluster-local-ops"
+    ],
+    "sources": []
+  },
+  {
+    "id": "hub-social",
+    "type": "hub",
+    "title": "社交与关系链",
+    "summary": "陌生人/兴趣社交的增长与信任",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "cluster-social-core",
+      "cluster-social-growth"
+    ],
+    "children_ids": [
+      "cluster-social-core",
+      "cluster-social-growth"
+    ],
+    "sources": []
+  },
+  {
+    "id": "hub-game-media",
+    "type": "hub",
+    "title": "游戏与泛内容",
+    "summary": "买量、版本运营、UGC与渠道去中心化",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "cluster-game-growth",
+      "cluster-content-platform"
+    ],
+    "children_ids": [
+      "cluster-game-growth",
+      "cluster-content-platform"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-frameworks",
+    "type": "cluster",
+    "title": "漏斗与方法论",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "framework-aarrr",
+      "framework-stp",
+      "framework-4p7p",
+      "framework-ltv-cac",
+      "framework-nsm",
+      "framework-action-mechanism",
+      "method-ice-rice"
+    ],
+    "children_ids": [
+      "framework-aarrr",
+      "framework-stp",
+      "framework-4p7p",
+      "framework-ltv-cac",
+      "framework-nsm",
+      "framework-action-mechanism",
+      "method-ice-rice"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-metrics-experiments",
+    "type": "cluster",
+    "title": "指标与实验",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "framework-nsm",
+      "framework-ltv-cac",
+      "method-ice-rice"
+    ],
+    "children_ids": [
+      "framework-nsm",
+      "framework-ltv-cac",
+      "method-ice-rice"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-channel-combo",
+    "type": "cluster",
+    "title": "渠道组合",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "method-channel-combo",
+      "locallife-omni",
+      "locallife-playbook-subsidy",
+      "social-acquisition"
+    ],
+    "children_ids": [
+      "method-channel-combo",
+      "locallife-omni",
+      "locallife-playbook-subsidy",
+      "social-acquisition"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-content-growth",
+    "type": "cluster",
+    "title": "内容增长模型",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "method-content-model",
+      "locallife-content",
+      "content-overview",
+      "content-algorithm",
+      "game-ugc"
+    ],
+    "children_ids": [
+      "method-content-model",
+      "locallife-content",
+      "content-overview",
+      "content-algorithm",
+      "game-ugc"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-live-stages",
+    "type": "cluster",
+    "title": "直播电商阶段与平台",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "live-stage1",
+      "live-stage2",
+      "live-stage3",
+      "live-stage4",
+      "live-stage5",
+      "platform-douyin",
+      "platform-taobao",
+      "platform-kuaishou",
+      "platform-video-account",
+      "model-five-party"
+    ],
+    "children_ids": [
+      "live-stage1",
+      "live-stage2",
+      "live-stage3",
+      "live-stage4",
+      "live-stage5",
+      "platform-douyin",
+      "platform-taobao",
+      "platform-kuaishou",
+      "platform-video-account",
+      "model-five-party"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-live-playbook",
+    "type": "cluster",
+    "title": "主播与案例",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "case-viya",
+      "case-xinba",
+      "case-luoyonghao",
+      "case-oriental"
+    ],
+    "children_ids": [
+      "case-viya",
+      "case-xinba",
+      "case-luoyonghao",
+      "case-oriental"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-local-omni",
+    "type": "cluster",
+    "title": "本地生活渠道与闭环",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "locallife-market",
+      "locallife-supply-traffic",
+      "locallife-omni",
+      "locallife-content",
+      "locallife-public-private",
+      "locallife-kuaiktuantuan"
+    ],
+    "children_ids": [
+      "locallife-market",
+      "locallife-supply-traffic",
+      "locallife-omni",
+      "locallife-content",
+      "locallife-public-private",
+      "locallife-kuaiktuantuan"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-local-ops",
+    "type": "cluster",
+    "title": "供给、履约与标准化",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "locallife-standardization",
+      "locallife-merchant-digital",
+      "locallife-rankings"
+    ],
+    "children_ids": [
+      "locallife-standardization",
+      "locallife-merchant-digital",
+      "locallife-rankings"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-social-core",
+    "type": "cluster",
+    "title": "社交冷启动与信任",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "social-scarcity",
+      "social-icebreak",
+      "social-trust"
+    ],
+    "children_ids": [
+      "social-scarcity",
+      "social-icebreak",
+      "social-trust"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-social-growth",
+    "type": "cluster",
+    "title": "社交获客与渠道",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "social-acquisition"
+    ],
+    "children_ids": [
+      "social-acquisition"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-game-growth",
+    "type": "cluster",
+    "title": "游戏增长与变现",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "game-traffic-cost",
+      "game-version-ops",
+      "game-ugc",
+      "game-channel",
+      "game-revenue"
+    ],
+    "children_ids": [
+      "game-traffic-cost",
+      "game-version-ops",
+      "game-ugc",
+      "game-channel",
+      "game-revenue"
+    ],
+    "sources": []
+  },
+  {
+    "id": "cluster-content-platform",
+    "type": "cluster",
+    "title": "泛内容平台",
+    "summary": "模块目录",
+    "body": "",
+    "tags": [],
+    "stage": [
+      "Strategy"
+    ],
+    "channel": [
+      "跨渠道"
+    ],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "content-overview",
+      "content-algorithm"
+    ],
+    "children_ids": [
+      "content-overview",
+      "content-algorithm"
+    ],
+    "sources": []
+  },
+  {
+    "id": "proof-live-2020-gmv",
+    "type": "proof",
+    "title": "2020直播电商GMV突破9000亿",
+    "summary": "2020直播电商GMV突破9000亿元，罗永浩首秀3小时成交1.1亿元。",
+    "body": "",
+    "tags": [
+      "证据"
+    ],
+    "stage": [],
+    "channel": [],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "live-stage3"
+    ],
+    "children_ids": [],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "行业发展简史",
+        "locator": "阶段3",
+        "excerpt": "2020直播电商GMV突破9000亿元，罗永浩首秀3小时成交1.1亿元。"
+      }
+    ]
+  },
+  {
+    "id": "proof-meituan-density",
+    "type": "proof",
+    "title": "美团百团大战高密度供给取胜",
+    "summary": "百团大战时期高密度商户覆盖是美团取胜关键。",
+    "body": "",
+    "tags": [
+      "证据"
+    ],
+    "stage": [],
+    "channel": [],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "locallife-supply-traffic"
+    ],
+    "children_ids": [],
+    "sources": [
+      {
+        "file_name": "本地生活行业概览 (2019–2024)_副本.docx",
+        "section_heading": "增长约束与机会",
+        "locator": "供给密度 vs 流量获取",
+        "excerpt": "百团大战时期高密度商户覆盖是美团取胜关键。"
+      }
+    ]
+  },
+  {
+    "id": "proof-taptap-zero-cut",
+    "type": "proof",
+    "title": "TapTap零分成第三大下载来源",
+    "summary": "TapTap零抽成，4324万月活核心玩家，成第三大下载来源。",
+    "body": "",
+    "tags": [
+      "证据"
+    ],
+    "stage": [],
+    "channel": [],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "game-channel"
+    ],
+    "children_ids": [],
+    "sources": [
+      {
+        "file_name": "游戏行业增长与营销案例知识库（第3卷）_副本.docx",
+        "section_heading": "渠道分发权重",
+        "locator": "TapTap",
+        "excerpt": "TapTap零抽成，4324万月活核心玩家，成第三大下载来源。"
+      }
+    ]
+  },
+  {
+    "id": "proof-viya-tax",
+    "type": "proof",
+    "title": "薇娅罚款13.41亿元被封禁",
+    "summary": "薇娅因偷逃税被罚13.41亿元，账号封禁。",
+    "body": "",
+    "tags": [
+      "证据"
+    ],
+    "stage": [],
+    "channel": [],
+    "metrics": [],
+    "pitfalls": [],
+    "playbook_steps": [],
+    "related_ids": [
+      "case-viya"
+    ],
+    "children_ids": [],
+    "sources": [
+      {
+        "file_name": "直播电商：增长与营销案例知识库_副本.docx",
+        "section_heading": "阶段4",
+        "locator": "税务事件",
+        "excerpt": "薇娅因偷逃税被罚13.41亿元，账号封禁。"
+      }
+    ]
+  }
+]
