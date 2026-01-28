@@ -1,6 +1,6 @@
 # Growth Atlas
 
-一个基于本地营销增长知识库构建的多层交互式百科站点。核心内容和页面都在 `site/` 目录：
+一个基于本人整理的营销增长知识库构建的多层交互式百科站点。核心内容和页面都在 `site/` 目录：
 
 - **数据层**：`site/data/knowledge.json` / `taxonomy.json`，从 11 份营销案例与方法论文档解析而来，支持 hub/cluster/item/proof 分层。
 - **设计与信息架构**：`site/DESIGN_SYSTEM.md`、`site/IA.md`、`site/DESIGN.md`、`site/ILLUSTRATION.md`。
