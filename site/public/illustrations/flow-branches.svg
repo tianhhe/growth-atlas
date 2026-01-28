@@ -1,0 +1,17 @@
+<svg width="420" height="140" viewBox="0 0 420 140" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect x="0" y="0" width="420" height="140" rx="18" fill="#F7F3EC"/>
+  <circle cx="70" cy="70" r="34" fill="#F3C6A8" opacity="0.9"/>
+  <circle cx="190" cy="48" r="30" fill="#C6D7D7" opacity="0.95"/>
+  <circle cx="190" cy="100" r="24" fill="#D2B4E6" opacity="0.9"/>
+  <circle cx="300" cy="70" r="36" fill="#F9E0AE" opacity="0.9"/>
+  <path d="M100 60 C130 40 160 36 190 46" stroke="#0F1F1C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M100 78 C132 92 160 102 190 98" stroke="#0F1F1C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M214 48 C250 38 272 48 300 62" stroke="#0F1F1C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M214 100 C248 102 270 96 300 78" stroke="#0F1F1C" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="100" cy="60" r="7" fill="#0F1F1C"/>
+  <circle cx="100" cy="78" r="7" fill="#0F1F1C"/>
+  <circle cx="214" cy="48" r="7" fill="#0F1F1C"/>
+  <circle cx="214" cy="100" r="7" fill="#0F1F1C"/>
+  <circle cx="300" cy="62" r="7" fill="#0F1F1C"/>
+  <circle cx="300" cy="78" r="7" fill="#0F1F1C"/>
+</svg>
